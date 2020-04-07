@@ -1,5 +1,5 @@
 {
-  "name": "PhatKoala/asset",
+  "name": "phatkoala/asset",
   "type": "library",
   "description": "Read manifest.json and entrypoints.json created by Webpack Encore",
   "keywords": [],
