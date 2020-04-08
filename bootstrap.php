@@ -7,7 +7,7 @@ if (!function_exists('asset')) {
 }
 
 if (!function_exists('entrypoint')) {
-    function asset($name) {
+    function entrypoint($name) {
         return PhatKoala\Asset::entrypoint($name);
     }
 }
